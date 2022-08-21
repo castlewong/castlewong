@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with HTML
 - 💬 Ask me about grown-up's life
 - 📫 How to reach me: WeChat 📱 WilburStereo
-- 😄 Pronouns: bao
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: set up my profile
