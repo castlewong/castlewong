@@ -15,18 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> 🔭 I’m currently working on Vue projects
+> 🔭 I’m currently working on Vue & Java projects
 
 > 🌱 I’m currently learning JS
 
 > 👯 I’m looking to collaborate on CSS
-
-> 🤔 I’m looking for help with HTML
 
 > 💬 Ask me about grown-up's life
 
 > 📫 How to reach me: WeChat 📱 WilburStereo
 
 > 😄 Pronouns: He/Him
-
-> ⚡ Fun fact: Loading 
