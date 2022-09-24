@@ -12,7 +12,7 @@
 - [TECH CHAP](https://www.bilibili.com/video/BV1bh411x7Sy?share_source=copy_web&vd_source=fbfb2c6749d5593cae78115df25c5d18)
 - [Mrwhosethebose](https://www.bilibili.com/video/BV1ui4y1E74o?share_source=copy_web&vd_source=fbfb2c6749d5593cae78115df25c5d18)
 
-> 📫 How to reach me: WeChat 📱 WilburStereo
+> 📫 How to reach me: WeChat 🍏 WilburStereo 📱 +86 17855130044
 
 > ✍🏻 Official Account: 「英语境」
 
