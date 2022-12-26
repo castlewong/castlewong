@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 > 🔭 I’m currently working on Swift projects
 
 > 🌱 I’m currently learning JS & Java
