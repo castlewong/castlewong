@@ -30,7 +30,7 @@ cd stands for **change directory**, use it to jump to any file path you assign, 
 |       cat [file name]       |                          Check file                          |
 |            mkdiv            |                    Create new file folder                    |
 | git add [file1] [file2] ... | Add changes of choosed file(s) in the working directory to the staging area |
-|                             |                                                              |
+|       git checkout .        |            Discharge changes in working directory            |
 |                             |                                                              |
 |                             |                                                              |
 
