@@ -22,13 +22,17 @@ ls means list **directory contents**, it lists all content of current file path.
 
 cd stands for **change directory**, use it to jump to any file path you assign, if not, it would bring you to the home folder, the **~** do the same.
 
-|     COMMAND     |         FUNCTION          |
-| :-------------: | :-----------------------: |
-|      cd ..      |        Upper lever        |
-|      cd -       | Back to last path of file |
-| rm [file name]  |        Delete file        |
-| cat [file name] |        Check file         |
-|      mkdiv      |  Create new file folder   |
+|           COMMAND           |                           FUNCTION                           |
+| :-------------------------: | :----------------------------------------------------------: |
+|            cd ..            |                         Upper lever                          |
+|            cd -             |                  Back to last path of file                   |
+|       rm [file name]        |                         Delete file                          |
+|       cat [file name]       |                          Check file                          |
+|            mkdiv            |                    Create new file folder                    |
+| git add [file1] [file2] ... | Add changes of choosed file(s) in the working directory to the staging area |
+|                             |                                                              |
+|                             |                                                              |
+|                             |                                                              |
 
 
 
