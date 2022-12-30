@@ -11,6 +11,6 @@
 - [TECH CHAP](https://www.bilibili.com/video/BV1bh411x7Sy?share_source=copy_web&vd_source=fbfb2c6749d5593cae78115df25c5d18)
 - [Mrwhosethebose](https://www.bilibili.com/video/BV1ui4y1E74o?share_source=copy_web&vd_source=fbfb2c6749d5593cae78115df25c5d18)
 
-> 📫 How to reach me: Mail 📮 hulkbuster0114@gmail.com WeChat 🍏 WilburStereo
-
-> ✍🏻 Official Account: 「英语境」
+> 📫 How to reach me: 
+> Mail 📮 hulkbuster0114@gmail.com 
+> WeChat 🍏 WilburStereo
