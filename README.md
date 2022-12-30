@@ -14,5 +14,3 @@
 > 📫 How to reach me: Mail 📮 hulkbuster0114@gmail.com WeChat 🍏 WilburStereo
 
 > ✍🏻 Official Account: 「英语境」
-
-> 😄 Pronouns: He/Him
