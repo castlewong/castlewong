@@ -2,8 +2,6 @@
 
 > 🔭 I’m currently working on Swift projects
 
-> 🌱 I’m currently learning JS & Java
-
 > 👯 I’m looking to collaborate on OpenLayers
 
 > 💬 Hobby: Translate YouTube Videos on Digital Gadgets' Review:
