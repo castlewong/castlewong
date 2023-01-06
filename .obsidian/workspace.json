@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c2cf70e322d321",
+        "id": "cd95be069766ae21",
         "type": "tabs",
         "children": [
           {
-            "id": "ae0bffd351d25811",
+            "id": "7ff4e90ff970e1e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL notes.md",
+                "file": "SwiftUI Essentials.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL notes.md",
+                "file": "SwiftUI Essentials.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61c581149eccadaa",
+  "active": "7ff4e90ff970e1e6",
   "lastOpenFiles": [
-    "SwiftUI Essentials.md",
-    "Notes Organizer.md",
-    "GIT notes.md",
+    "SQL notes.md",
     "README.md",
+    "GIT notes.md",
+    "Notes Organizer.md",
     "Generative Pre-trained Transformer notes.md",
+    "SwiftUI Essentials.md",
     "`List`.md",
     "ZNOTES/Xcode Tips.md",
     "ZNOTES/List.md",
-    "ZNOTES/CoreData数据持久化框架的使用1.md",
-    "ZNOTES/Core Data.md"
+    "ZNOTES/CoreData数据持久化框架的使用1.md"
   ]
 }

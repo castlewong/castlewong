@@ -1,8 +1,43 @@
 
 SwiftUI in Action.
-toc
 
-[toc]
+- [[#1. CREATING AND COMBINING VIEWS|1. CREATING AND COMBINING VIEWS]]
+- [[#2. BUILDING LISTS AND NAVIGATION|2. BUILDING LISTS AND NAVIGATION]]
+- [[#3. Handling User Input|3. Handling User Input]]
+	- [[#3. Handling User Input#Question|Question]]
+- [[#4. Drawing and Animation|4. Drawing and Animation]]
+- [[#5. Drawing Paths and Shapes|5. Drawing Paths and Shapes]]
+	- [[#5. Drawing Paths and Shapes#1. Create Drawing Data for a Badge View|1. Create Drawing Data for a Badge View]]
+	- [[#5. Drawing Paths and Shapes#2. Draw the Badge Background|2. Draw the Badge Background]]
+	- [[#5. Drawing Paths and Shapes#3. Draw the Badge Symbol|3. Draw the Badge Symbol]]
+	- [[#5. Drawing Paths and Shapes#4. Combine the Badge Foreground and Background|4. Combine the Badge Foreground and Background]]
+		- [[#4. Combine the Badge Foreground and Background#1. What is the purpose of `GeometryReader`?|1. What is the purpose of `GeometryReader`?]]
+		- [[#4. Combine the Badge Foreground and Background#2. What shape does the following drawing code create?|2. What shape does the following drawing code create?]]
+- [[#6. Animating Views and Transitions|6. Animating Views and Transitions]]
+	- [[#6. Animating Views and Transitions#1. Add Hiking Data to the App|1. Add Hiking Data to the App]]
+	- [[#6. Animating Views and Transitions#2. Add Animations to Individual Views|2. Add Animations to Individual Views]]
+	- [[#6. Animating Views and Transitions#3. Animate the Effects of State Changes|3. Animate the Effects of State Changes]]
+	- [[#6. Animating Views and Transitions#4. Customize View Transitions|4. Customize View Transitions]]
+	- [[#6. Animating Views and Transitions#5. Compose Animations for Complex Effects|5. Compose Animations for Complex Effects]]
+- [[#7. App Design and Layout|7. App Design and Layout]]
+- [[#8. Composing Complex Interfaces|8. Composing Complex Interfaces]]
+	- [[#8. Composing Complex Interfaces#1. Add a Category View|1. Add a Category View]]
+	- [[#8. Composing Complex Interfaces#2. Create a Category List|2. Create a Category List]]
+	- [[#8. Composing Complex Interfaces#3. Create a Category Row|3. Create a Category Row]]
+	- [[#8. Composing Complex Interfaces#4. Complete the Category View|4. Complete the Category View]]
+	- [[#8. Composing Complex Interfaces#5. Add Navigation Between Sections|5. Add Navigation Between Sections]]
+- [[#9. Working with UI Controls|9. Working with UI Controls]]
+	- [[#9. Working with UI Controls#1. Display a User Profile|1. Display a User Profile]]
+	- [[#9. Working with UI Controls#2. Add an Edit Mode|2. Add an Edit Mode]]
+	- [[#9. Working with UI Controls#3. Define the Profile Editor|3. Define the Profile Editor]]
+	- [[#9. Working with UI Controls#4. Delay Edit Propagation|4. Delay Edit Propagation]]
+- [[#10. Interfacing with UIKit|10. Interfacing with UIKit]]
+	- [[#10. Interfacing with UIKit#1. Create a View to Represent a UIPageViewController|1. Create a View to Represent a UIPageViewController]]
+	- [[#10. Interfacing with UIKit#2. Create the View Controller’s Data Source|2. Create the View Controller’s Data Source]]
+	- [[#10. Interfacing with UIKit#3. Track the Page in a SwiftUI View’s State|3. Track the Page in a SwiftUI View’s State]]
+	- [[#10. Interfacing with UIKit#4. Add a Custom Page Control|4. Add a Custom Page Control]]
+
+
 
 How can I use the GraphicalDatePicker without the time ?
 
