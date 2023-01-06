@@ -11,8 +11,12 @@
             "id": "ae0bffd351d25811",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQL notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +107,15 @@
   },
   "active": "61c581149eccadaa",
   "lastOpenFiles": [
+    "SwiftUI Essentials.md",
+    "Notes Organizer.md",
+    "GIT notes.md",
+    "README.md",
     "Generative Pre-trained Transformer notes.md",
     "`List`.md",
     "ZNOTES/Xcode Tips.md",
     "ZNOTES/List.md",
     "ZNOTES/CoreData数据持久化框架的使用1.md",
-    "ZNOTES/Core Data.md",
-    "ZNOTES/CoreData数据持久化框架的使用2.md",
-    "ZNOTES/CoreData数据持久化框架的使用3.md",
-    "ZNOTES/CoreData in Multiplatform App  Apple Developer Forums.md",
-    "ZNOTES/Images.md"
+    "ZNOTES/Core Data.md"
   ]
 }

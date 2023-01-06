@@ -1,8 +1,51 @@
 Generative Pre-trained Transformer Notes
 
 
+Skeuomorphism Neumorphism
 
+```Swift
+import SwiftUI
 
+struct SkeuomorphismClock: View {
+    let calendar = Calendar.current
+    let timer = Timer.publish(every: 1, on: .main, in: .common).autoconnect()
+
+    var body: some View {
+        ZStack {
+            Color(.sRGB, red: 0.1, green: 0.1, blue: 0.1, opacity: 1.0).edgesIgnoringSafeArea(.all)
+            VStack(spacing: 16) {
+                Text(getHour())
+                    .font(.system(size: 72, weight: .thin, design: .rounded))
+                    .foregroundColor(.white)
+                HStack(spacing: 8) {
+                    Text(getMinute())
+                        .font(.system(size: 36, weight: .thin, design: .rounded))
+                        .foregroundColor(.white)
+                    Text(getSecond())
+                        .font(.system(size: 36, weight: .thin, design: .rounded))
+                        .foregroundColor(.white)
+                }
+            }
+        }
+    }
+
+    func getHour() -> String {
+        let hour = calendar.component(.hour, from: Date())
+        return String(format: "%02d", hour)
+    }
+
+    func getMinute() -> String {
+        let minute = calendar.component(.minute, from: Date())
+        return String(format: "%02d", minute)
+    }
+
+    func getSecond() -> String {
+        let second = calendar.component(.second, from: Date())
+        return String(format: "%02d", second)
+    }
+}
+
+```
 
 Append array
 
