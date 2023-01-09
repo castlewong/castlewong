@@ -10,6 +10,12 @@ Dev notes
 
 you can create a file called `.gitignore` in the root directory of your Git repository and list the files or patterns that you want Git to ignore.
 
+If you want to ignore a file that is already checked in, you must untrack the file before you add a rule to ignore it. From your terminal, untrack the file.
+
+```shell
+$ git rm --cached FILENAME
+```
+
 Here's how you can create a `.gitignore` file and add files or patterns to ignore using the terminal in macOS:
 
 1. Open Terminal on your macOS machine.
