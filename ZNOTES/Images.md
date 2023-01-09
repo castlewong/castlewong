@@ -1,0 +1,3 @@
+- Avoid large blobs as database properties
+- Store images locally
+- Store a reference in database

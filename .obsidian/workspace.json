@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "ba1491e28dc16406",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5c2cf70e322d321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae0bffd351d25811",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2785b4604ea98d30",
+    "type": "split",
+    "children": [
+      {
+        "id": "860e657c7c751ccd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61c581149eccadaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea5641ed44b25541",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#problems",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "0a2e9a088aa0daa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "faa709a1f9395143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425dfdb128904135",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "61c581149eccadaa",
+  "lastOpenFiles": [
+    "Generative Pre-trained Transformer notes.md",
+    "`List`.md",
+    "ZNOTES/Xcode Tips.md",
+    "ZNOTES/List.md",
+    "ZNOTES/CoreData数据持久化框架的使用1.md",
+    "ZNOTES/Core Data.md",
+    "ZNOTES/CoreData数据持久化框架的使用2.md",
+    "ZNOTES/CoreData数据持久化框架的使用3.md",
+    "ZNOTES/CoreData in Multiplatform App  Apple Developer Forums.md",
+    "ZNOTES/Images.md"
+  ]
+}

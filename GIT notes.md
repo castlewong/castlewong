@@ -4,7 +4,7 @@
 
 Dev notes
 
-
+[toc]
 
 ## To ignore certain files in Git, 
 
