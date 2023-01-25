@@ -6,9 +6,17 @@ Dev notes
 
 
 
+
+
+## Commit assign details
+
+git commit --date="Jan 25 10:13:14 2023 +0800" -am "Commit assign details."
+
+## Could not read from remote repository. 
+
 Encountered this:
 
-> Could not readf rom remote repository. 
+> Could not read from remote repository. 
 
 <img src="/Users/inside/Documents/castlewong/git_images/couldnot_read_from.png"  />
 
