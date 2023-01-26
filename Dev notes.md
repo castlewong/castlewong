@@ -10,7 +10,7 @@ Dev notes
 
 ## Commit assign details
 
-git commit --date="Jan 25 10:13:14 2023 +0800" -am "Commit assign details."
+git commit --date="Jan 26 14:19:54 2023 +0800" -am "SSH details."
 
 ## Could not read from remote repository. 
 
@@ -20,7 +20,11 @@ Encountered this:
 
 <img src="/Users/inside/Documents/castlewong/git_images/couldnot_read_from.png"  />
 
-This error informs us we have an authentication issue.  
+This error informs us we have an authentication issue on SSH.
+
+SSH stands for 
+
+> Secure Shell Protocol.
 
 If we encounter an SSH authentication issue, our first port of call is to add your key to the SSH keychain:
 
