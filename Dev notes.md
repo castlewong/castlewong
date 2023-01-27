@@ -8,6 +8,20 @@ Dev notes
 
 
 
+## Basic git
+
+Change the current command line chat to another directory, use 3 commands:
+
+- pwd
+- ls
+- cd
+
+pwd means **print working directory**, it shows the abouslute directory of current file path.
+
+ls means list **directory contents**, it lists all content of current file path.
+
+cd stands for **change directory**, use it to jump to any file path you assign, if not, it would bring you to the home folder, the **~** do the same.
+
 ## Commit assign details
 
 git commit --date="Jan 26 14:19:54 2023 +0800" -am "SSH details."
