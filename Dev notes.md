@@ -22,6 +22,13 @@ ls means list **directory contents**, it lists all content of current file path.
 
 cd stands for **change directory**, use it to jump to any file path you assign, if not, it would bring you to the home folder, the **~** do the same.
 
+| COMMAND |         FUNCTION          |
+| :-----: | :-----------------------: |
+|  cd ..  |        Upper lever        |
+|  cd -   | Back to last path of file |
+
+
+
 ## Commit assign details
 
 git commit --date="Jan 26 14:19:54 2023 +0800" -am "SSH details."
