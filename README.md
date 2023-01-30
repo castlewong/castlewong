@@ -13,3 +13,4 @@
 > Mail 📮 hulkbuster0114@gmail.com 
 > WeChat 🍏 WilburStereo
 
+2023-01-30 10:32:13 Part of chart code gone missing, which is wierd, I thought I'd place them in a sepreate file.
