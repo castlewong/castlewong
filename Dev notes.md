@@ -1,3 +1,7 @@
+
+
+
+
 Dev notes
 
 
@@ -18,7 +22,9 @@ ssh-add ~/.ssh/id_rsa
 
 This will add our id_rsa key to the keychain.
 
-Now, test the SSH connection.
+![](/Users/inside/Documents/castlewong/git_images/add_id_rsa.png)
+
+Now, test the SSH connection:
 
 1. 打开终端。
 
@@ -28,6 +34,8 @@ Now, test the SSH connection.
    $ ssh -T git@github.com
    # Attempts to ssh to GitHub
    ```
+
+   ![](/Users/inside/Documents/castlewong/git_images/identity_added.png)
 
    您可能会看到类似如下的警告：
 
@@ -47,3 +55,8 @@ Now, test the SSH connection.
    注意：远程命令应退出，并显示代码 1。
 
 4. 验证生成的消息包含您的用户名。 如果收到“权限被拒绝”消息，请参阅“[错误：权限被拒绝（公钥）](https://docs.github.com/zh/articles/error-permission-denied-publickey)”。
+
+Now, try again to clone proj. to local file folder:
+
+![](/Users/inside/Documents/castlewong/git_images/clone_success.png)
+
