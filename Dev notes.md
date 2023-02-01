@@ -8,7 +8,7 @@ Dev notes
 
 <img src="/Users/inside/Documents/castlewong/git_images/couldnot_read_from.png"  />
 
-This error informs us we have an authentication issue. 
+This error informs us we have an authentication issue.  
 
 If we encounter an SSH authentication issue, our first port of call is to add your key to the SSH keychain:
 
@@ -18,7 +18,7 @@ ssh-add ~/.ssh/id_rsa
 
 This will add our id_rsa key to the keychain.
 
-
+Now, test the SSH connection.
 
 1. 打开终端。
 
