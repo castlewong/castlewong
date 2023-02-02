@@ -6,7 +6,7 @@ Dev notes
 
 
 
-遇到了
+Encountered this:
 
 > Could not readf rom remote repository. 
 
