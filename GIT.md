@@ -6,7 +6,22 @@ Dev notes
 
 
 
+## Generate SSH key
 
+1. Check if ssh folder has been generated
+
+   ls -al ~/.ssh 
+
+2. If not
+
+   git config –global user.name ‘xxxxx’ 
+   git config –global user.email ‘xxx@xx.xxx’
+
+3. Generate key
+
+   ssh-keygen -t rsa -C ‘email’
+
+4. Return
 
 ## Basic git
 
