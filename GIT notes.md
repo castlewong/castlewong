@@ -6,6 +6,57 @@ Dev notes
 
 
 
+## To ignore certain files in Git, 
+
+you can create a file called `.gitignore` in the root directory of your Git repository and list the files or patterns that you want Git to ignore.
+
+Here's how you can create a `.gitignore` file and add files or patterns to ignore using the terminal in macOS:
+
+1. Open Terminal on your macOS machine.
+2. Navigate to the root directory of your Git repository by using the `cd` command. For example, if your Git repository is located at `/Users/YourUserName/Documents/MyProject`, you can navigate to it by running the following command:
+
+```
+bashCopy code
+cd /Users/YourUserName/Documents/MyProject
+```
+
+1. Create a new file called `.gitignore` by running the following command:
+
+```bash
+touch .gitignore
+```
+
+1. Open the `.gitignore` file in your text editor of choice. For example, you can open it in the nano text editor by running the following command:
+
+```bash
+nano .gitignore
+```
+
+1. Add the names of the files or patterns that you want to ignore to the `.gitignore` file, each on a separate line. For example, to ignore a file called `secret.txt` and all `.log` files, you can add the following lines to the `.gitignore` file:
+
+```
+secret.txt
+*.log
+```
+
+1. Save the changes to the `.gitignore` file and exit the text editor.
+2. Add the `.gitignore` file to your Git repository by running the following command:
+
+```
+git add .gitignore
+```
+
+1. Commit the changes to your Git repository by running the following command:
+
+```
+sqlCopy code
+git commit -m "Add .gitignore file"
+```
+
+Git will now ignore the files or patterns that you listed in the `.gitignore` file.
+
+
+
 ## Generate SSH key
 
 1. Check if ssh folder has been generated
