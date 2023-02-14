@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 > 🔭 I’m currently working on Swift projects
-
+[![Wilbur's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlewong&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 > 👯 I’m looking to collaborate on OpenLayers
 
 > 💬 Hobby: Translate YouTube Videos on Digital Gadgets' Review:
@@ -18,4 +18,4 @@
 2023-01-30 10:32:13 Part of chart code gone missing, which is wierd, I thought I'd place them in a sepreate file.
 2023-01-30 23:56:50 Still cannot figure out where the files go.
 
-[![Wilbur's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlewong&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
