@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 > 🔭 I’m currently working on Swift projects
-[![Wilbur's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlewong&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+> 
+> [![Wilbur's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlewong&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+> 
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castlewong)](https://github.com/anuraghazra/github-readme-stats)
+> 
 > 👯 I’m looking to collaborate on OpenLayers
 
 > 💬 Hobby: Translate YouTube Videos on Digital Gadgets' Review:
