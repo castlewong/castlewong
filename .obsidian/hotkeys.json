@@ -17,5 +17,14 @@
       ],
       "key": "M"
     }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "S"
+    }
   ]
 }

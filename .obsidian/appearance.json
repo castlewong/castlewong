@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "theme": "system"
+  "accentColor": "#3a9613",
+  "theme": "system",
+  "cssTheme": "80s Neon"
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwiftUI Essentials.md",
+                "file": "GIT notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SwiftUI Essentials.md",
+                "file": "GIT notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "7ff4e90ff970e1e6",
   "lastOpenFiles": [
-    "SQL notes.md",
-    "README.md",
-    "GIT notes.md",
+    "ZNOTES/Xcode SC.md",
+    "ZNOTES/Core Data.md",
     "Notes Organizer.md",
-    "Generative Pre-trained Transformer notes.md",
+    "README.md",
+    "SQL notes.md",
     "SwiftUI Essentials.md",
-    "`List`.md",
-    "ZNOTES/Xcode Tips.md",
-    "ZNOTES/List.md",
-    "ZNOTES/CoreData数据持久化框架的使用1.md"
+    "GIT notes.md",
+    "Generative Pre-trained Transformer Notes.md",
+    "ZNOTES/The .xcodeproj.md",
+    "ZNOTES/A_SwiftUI Essentials.md"
   ]
 }

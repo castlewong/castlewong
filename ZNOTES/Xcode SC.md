@@ -1,4 +1,6 @@
 
+opt command 0  toggle Inspector Bar on the right
+
 ## 关于Xcode快捷键
 
 Mac键盘图标与对应快捷按键
