@@ -13,8 +13,8 @@
 
 > 📫 How to reach me: 
 > Mail 📮 hulkbuster0114@gmail.com 
-> WeChat 🍏 WilburStereo
+> WeChat WilburStereo
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=castlewong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/castlewong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castlewong&layout=compact&theme=buefy&hide_border=true&langs_count=9&count_private=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=castlewong&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Anuragg's github stats" /></a> | <a href="https://github.com/castlewong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castlewong&layout=compact&theme=buefy&hide_border=true&langs_count=9&count_private=true" /></a> |
 | ------------- | ------------- |
 
