@@ -1,5 +1,6 @@
 
 opt command 0  toggle Inspector Bar on the right
+command 0 **Hide navigator**
 
 ## 关于Xcode快捷键
 
