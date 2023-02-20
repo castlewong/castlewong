@@ -1,4 +1,6 @@
 
+#macOS-SC ⌃+⌘+0 use groups
+
 opt command 0  toggle Inspector Bar on the right
 command 0 **Hide navigator**
 
