@@ -12,13 +12,13 @@ Git protects you from losing potentially important changes.
 
 You have three options:
 
--   Commit the change using
+- Commit the change using
     
     ```
     git commit -m "My message"
     ```
     
--   Stash it.
+- Stash it.
     
     Stashing acts as a stack, where you can push changes, and you pop them in reverse order.
     
