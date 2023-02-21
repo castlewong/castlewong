@@ -310,4 +310,4 @@ R = Replaced in the repository
 
 参考资料：
 
-http://stackoverflow.com/questions/7754850/symbols-meaning-aside-class-name-in-xcode
+[链接 🔗](http://stackoverflow.com/questions/7754850/symbols-meaning-aside-class-name-in-xcode)

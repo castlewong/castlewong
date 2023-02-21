@@ -1,5 +1,8 @@
 {
-  "accentColor": "#3a9613",
+  "accentColor": "#5c52e5",
   "theme": "system",
-  "cssTheme": "80s Neon"
+  "cssTheme": "Prism",
+  "interfaceFontFamily": "Arial Rounded MT Bold,JetBrains Mono,American Typewriter",
+  "textFontFamily": "Arial Rounded MT Bold",
+  "translucency": true
 }

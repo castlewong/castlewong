@@ -39,7 +39,7 @@ You have three options:
     using `git reset --hard`  
     or `git checkout -t -f remote/branch`
     
-    ## Or: Discard local changes for a specific file
+    Or: Discard local changes for a specific file
     
     using `git checkout filename`
 

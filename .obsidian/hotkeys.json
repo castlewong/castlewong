@@ -21,8 +21,7 @@
   "app:open-vault": [
     {
       "modifiers": [
-        "Alt",
-        "Ctrl"
+        "Alt"
       ],
       "key": "S"
     }
