@@ -1,6 +1,15 @@
 
 
 
+
+#local
+
+In the scheme’s Run action, under the Options pane, change the Application Language to French.
+
+
+
+
+
 CoreData不是数据库，它是一个用于开发人员管理和存储数据持久化的交互框架，它的持久存储并不局限于数据库
 
 isPresented 模态弹窗的触发动作绑定声明好的变量 showNewNoteView，跳转的页面为新创建的 NewNoteView。
