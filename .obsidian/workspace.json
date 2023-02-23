@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae6934b8f1b705d",
+        "id": "03433b25ae0503e6",
         "type": "tabs",
         "children": [
           {
-            "id": "52dc2336362848f6",
+            "id": "0f50f2053b053d11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT notes.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +100,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "52dc2336362848f6",
+  "active": "0f50f2053b053d11",
   "lastOpenFiles": [
+    "GIT notes.md",
     "Notes Organizer.md",
     "ZNOTES/Xcode Tips.md",
     "ZNOTES/Core Data.md",
     "SQL notes.md",
     "README.md",
     "SwiftUI Essentials.md",
-    "GIT notes.md",
     "ZNOTES/Xcode SC.md",
     "Generative Pre-trained Transformer Notes.md",
     "ZNOTES/The .xcodeproj.md"
