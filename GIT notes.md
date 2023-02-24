@@ -144,7 +144,9 @@ cd stands for **change directory**, use it to jump to any file path you assign, 
 |       git log --stat        |        Show git history, and files that been changed         |
 |        `git status`         |         check the current status of this repository          |
 
+git branch (branchname)
 
+git checkout (branchname)
 
 ## Commit assign details
 
