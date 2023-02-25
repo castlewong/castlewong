@@ -1,6 +1,101 @@
 Generative Pre-trained Transformer Notes
 
 
+
+------
+
+PieChart
+
+
+
+import SwiftUI
+
+struct PieChart: View {
+    
+    var dataEntries: [ChartData]
+    var colors: [Color]
+    
+    var body: some View {
+        ZStack {
+            ForEach(0..<dataEntries.count, id: \.self) { index in
+                PieChartSlice(startAngle: angle(for: index), endAngle: angle(for: index+1))
+                    .fill(colors[index % colors.count])
+            }
+        }
+    }
+    
+    func angle(for index: Int) -> Angle {
+        guard !dataEntries.isEmpty else { return .zero }
+        
+        let total = dataEntries.reduce(0) { $0 + $1.value }
+        var currentTotal: Double = 0.0
+        
+        for i in 0..<index {
+            currentTotal += dataEntries[i].value
+        }
+        
+        return .degrees(currentTotal / total * 360)
+    }
+}
+
+struct PieChartSlice: Shape {
+    
+    var startAngle: Angle
+    var endAngle: Angle
+    
+    func path(in rect: CGRect) -> Path {
+        var path = Path()
+        
+        let center = CGPoint(x: rect.midX, y: rect.midY)
+        let radius = min(rect.width, rect.height) / 2
+        
+        path.move(to: center)
+        path.addArc(center: center, radius: radius, startAngle: startAngle, endAngle: endAngle, clockwise: false)
+        path.closeSubpath()
+        
+        return path
+    }
+}
+
+struct ChartData {
+    let value: Double
+}
+
+struct PieChartView: View {
+    
+```swift
+let chartData: [ChartData] = [
+    ChartData(value: 45),
+    ChartData(value: 30),
+    ChartData(value: 25)
+]
+
+let colors: [Color] = [
+    .red,
+    .green,
+    .blue
+]
+
+var body: some View {
+    VStack {
+        Text("Pie Chart")
+            .font(.headline)
+        PieChart(dataEntries: chartData, colors: colors)
+            .frame(width: 200, height: 200)
+    }
+}
+```
+}
+
+struct PieChart_Previews: PreviewProvider {
+    static var previews: some View {
+        PieChartView()
+    }
+}
+
+------
+
+
 Skeuomorphism Neumorphism
 
 ```Swift
