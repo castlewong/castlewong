@@ -93,6 +93,14 @@ struct PieChart_Previews: PreviewProvider {
     }
 }
 
+上面`PieChart`区域的主要目的是接受一组`ChartData`值，并将其转换为一组`PieChartSlice`来显示。该特定饼图具有三个均等的切片（颜色为红色，绿色和蓝色），每个切片可根据其相对值进行调整。除此之外，还添加了`PieChartSlice`路径。 为了实现它，我们必须按如下方式重写PieChartSlice：
+
+先从gradients中获取某一组块的颜色，然后定义`PieChartSlice`的切片（为了防止数据趋于负下限，定义一些最小和版画值）。
+
+
+
+
+
 ------
 
 
