@@ -99,6 +99,14 @@ struct PieChart_Previews: PreviewProvider {
 
 
 
+接下来，在`PieChart`结构中，我们使用循环来迭代数据并为每个值创建一个`PieChartSlice`。这是使用SwiftUI的ForEach语句完成的。
+
+`angle(for:)`函数是一个辅助函数，用于计算每个切片的开始和结束角度。它使用数据条目的总和来计算每个值相对于总和的百分比，并将其转换为度数。
+
+最后，可以创建一个包含`PieChart`的`PieChartView`视图，同时提供图表数据和颜色数组。在该视图中，我们可以将饼图的大小设置为200x200，并在其上方添加一个标题。
+
+
+
 
 
 ------
