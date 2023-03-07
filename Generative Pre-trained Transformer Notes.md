@@ -275,11 +275,10 @@ struct PieChart_Previews: PreviewProvider {
 
 
 
+OpenSource
+
 1. Charts：这是一款功能丰富的图表库，支持多种类型的图表，包括线性图、柱状图、饼状图等，也支持多个数据集和交互操作。官网：https://github.com/danielgindi/Charts
-2. CorePlot：这是另一款功能丰富的图表库，它支持许多常见的图表类型，包括线性图、柱状图、饼状图等，也支持多个数据集、标签、轴线等。官网：https://github.com/core-plot/core-plot
-3. PNChart：这是一款简单易用的图表库，支持多种类型的图表，包括线性图、柱状图、环形图等，也支持多种主题和动画效果。官网：https://github.com/kevinzhow/PNChart
-4. Scrollable-GraphView：这是一款滚动式的图表库，支持多种类型的图表，包括线性图、柱状图、面积图等，也支持滚动和缩放操作。官网：https://github.com/philackm/Scrollable-GraphView
-5. SwiftCharts：这是一款灵活的图表库，支持多种类型的图表，包括线性图、柱状图、散点图等，也支持自定义图表样式和主题。官网：https://github.com/i-schuetz/SwiftCharts
+2. SwiftCharts：这是一款灵活的图表库，支持多种类型的图表，包括线性图、柱状图、散点图等，也支持自定义图表样式和主题。官网：https://github.com/i-schuetz/SwiftCharts
 
 
 
