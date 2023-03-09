@@ -11,8 +11,12 @@
             "id": "0f50f2053b053d11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Generative Pre-trained Transformer notes.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Generative Pre-trained Transformer notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,11 +107,12 @@
   },
   "active": "0f50f2053b053d11",
   "lastOpenFiles": [
+    "SQL notes.md",
+    "Generative Pre-trained Transformer notes.md",
     "GIT notes.md",
     "Notes Organizer.md",
     "ZNOTES/Xcode Tips.md",
     "ZNOTES/Core Data.md",
-    "SQL notes.md",
     "README.md",
     "SwiftUI Essentials.md",
     "ZNOTES/Xcode SC.md",

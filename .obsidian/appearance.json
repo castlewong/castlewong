@@ -1,7 +1,7 @@
 {
   "accentColor": "#5c52e5",
-  "theme": "system",
-  "cssTheme": "Prism",
+  "theme": "obsidian",
+  "cssTheme": "",
   "interfaceFontFamily": "Arial Rounded MT Bold,JetBrains Mono,American Typewriter",
   "textFontFamily": "Arial Rounded MT Bold",
   "translucency": true
