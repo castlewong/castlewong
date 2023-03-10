@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generative Pre-trained Transformer notes.md",
-                "mode": "preview",
+                "file": "GIT notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative Pre-trained Transformer notes.md",
+                "file": "GIT notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "0f50f2053b053d11",
   "lastOpenFiles": [
-    "SQL notes.md",
     "Generative Pre-trained Transformer notes.md",
+    "SQL notes.md",
     "GIT notes.md",
     "Notes Organizer.md",
     "ZNOTES/Xcode Tips.md",

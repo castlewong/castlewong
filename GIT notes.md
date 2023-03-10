@@ -6,6 +6,13 @@ Dev notes
 
 [toc]
 
+how to amend the time of commit:
+
+```git
+git commit --amend --date="YYYY-MM-DD HH:MM:SS"
+```
+
+
 ## You can't merge with local modifications. 
 
 Git protects you from losing potentially important changes.
