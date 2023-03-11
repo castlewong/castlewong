@@ -1,8 +1,8 @@
 {
-  "accentColor": "#5c52e5",
-  "theme": "obsidian",
+  "accentColor": "#6928e2",
+  "theme": "moonstone",
   "cssTheme": "",
-  "interfaceFontFamily": "Arial Rounded MT Bold,JetBrains Mono,American Typewriter",
+  "interfaceFontFamily": "Arial Rounded MT Bold,PT Mono,American Typewriter",
   "textFontFamily": "Arial Rounded MT Bold",
   "translucency": true
 }

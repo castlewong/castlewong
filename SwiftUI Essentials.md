@@ -1,4 +1,4 @@
-
+From [Apple🔗](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
 SwiftUI in Action.
 
 - [[#1. CREATING AND COMBINING VIEWS|1. CREATING AND COMBINING VIEWS]]
