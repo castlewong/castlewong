@@ -1,5 +1,8 @@
 
-
+#bash
+cd - back to the previous dir
+cd ~ home dir
+cd .. back to the parent dir
 
 
 Dev notes

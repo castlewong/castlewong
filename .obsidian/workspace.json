@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZNOTES/Swift Package Manager.md",
+                "file": "GIT notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZNOTES/Swift Package Manager.md",
+                "file": "GIT notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,16 +120,16 @@
   },
   "active": "6b63932c91020698",
   "lastOpenFiles": [
-    "SwiftUI Essentials.md",
-    "ZNOTES/Swift Package Manager.md",
-    "Generative Pre-trained Transformer Notes.md",
     "Notes Organizer.md",
+    "README.md",
     "GIT notes.md",
+    "ZNOTES/Swift Package Manager.md",
+    "SwiftUI Essentials.md",
+    "Generative Pre-trained Transformer Notes.md",
     "Generative Pre-trained Transformer notes.md",
     "SQL notes.md",
     "ZNOTES/Xcode Tips.md",
     "ZNOTES/Core Data.md",
-    "README.md",
     "ZNOTES/Xcode SC.md",
     "ZNOTES/The .xcodeproj.md"
   ]
