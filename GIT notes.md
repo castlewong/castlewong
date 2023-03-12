@@ -3,7 +3,7 @@
 cd - back to the previous dir
 cd ~ home dir
 cd .. back to the parent dir
-
+⬆️ last order
 
 Dev notes
 
