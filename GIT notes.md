@@ -30,7 +30,15 @@ Copy code
 
 `vi <filename>`
 
-This will open the file in the vi editor. Press "i" to enter insert mode, make your changes to the text file using the keyboard. When you're done editing, press "Esc" to exit insert mode. To save changes, type ":w" and hit enter. To exit vi, type ":q" and hit enter. If there are unsaved changes, you can type ":q!" and hit enter to exit without saving.
+This will open the file in the vi editor. 
+Press `i` to enter insert mode, make your changes to the text file using the keyboard. 
+When you're done editing, press **Esc** to exit insert mode. 
+To save changes, type `:w` and hit enter. 
+To exit vi, type `:q` and hit enter. 
+Or just input `:wq` to save and exit.
+If there are unsaved changes, you can type `:q!` and hit enter to exit without saving.
+The bottom line shows status of the present, and you can input some command to operate the file you're editting.
+This is the beauty of pure-keyboarding opreating, I want to learn master vim now.
 
 3.  emacs:
 
