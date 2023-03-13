@@ -1,13 +1,20 @@
 
-#bash
+#bash #macOS-SC 
 cd - back to the previous dir
 cd ~ home dir
 cd .. back to the parent dir
 ⬆️ last order
+hide or unhide a file in macOS
+```bash
+chflags nohidden/hidden foldername
+```
 
-Dev notes
+
+
 
 [toc]
+
+Use `git log -1` to view the last commit.
 
 how to amend the time of commit:
 
