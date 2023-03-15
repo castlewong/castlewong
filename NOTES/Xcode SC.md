@@ -1,5 +1,25 @@
 
+/Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-evibdvkrswgoslckotefavxawdbe/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Task Manager Core Data.build/Debug-iphonesimulator/Task Manager Core Data.build/Objects-normal/arm64/Task_Manager_Core_Data.swiftmodule /Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-evibdvkrswgoslckotefavxawdbe/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Task Manager Core Data.build/Debug-iphonesimulator/Task Manager Core Data.build/Objects-normal/arm64/Task_Manager_Core_Data.swiftmodule: No such file or directory
+/Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-evibdvkrswgoslckotefavxawdbe/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Charts.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Charts.abi.json /Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-evibdvkrswgoslckotefavxawdbe/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Charts.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Charts.abi.json: No such file or directory
+/Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-bahauefsjcaeeldiyyikcwhhxskk/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Charts.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Charts.abi.json /Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-bahauefsjcaeeldiyyikcwhhxskk/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Charts.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Charts.abi.json: No such file or directory
 
+
+
+Xcode shortcuts for SwiftUI
+
+jump to definition-**ctrl command click**
+
+//    MARK: option command ⬅️ 作为 fold 的快捷键也太方便了吧 好舒服 世界是由懒人推动的 
+
+//    MARK:  可以在代码缩略图中看到 所以有用
+
+折叠代码块：command+option+ → 或 ←  
+
+command shift [ 移动到左边的tab
+
+c o left curly brace
+
+向上👆🏻移动当前行一行
 
 opt command 0  toggle Inspector Bar on the right
 command 0 **Hide navigator**
@@ -60,21 +80,6 @@ command + option + ← / command + option + →——收放方法体
 command + K——清除控制台打印信息  
 
 
-Xcode shortcuts for SwiftUI
-
-jump to definition-**ctrl command click**
-
-//    MARK: option command ⬅️ 作为 fold 的快捷键也太方便了吧 好舒服 世界是由懒人推动的 
-
-//    MARK:  可以在代码缩略图中看到 所以有用
-
-折叠代码块：command+option+ → 或 ←  
-
-command shift [ 移动到左边的tab
-
-c o left curly brace
-
-向上👆🏻移动当前行一行
 
 ## storyboard 快捷键
 

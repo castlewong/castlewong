@@ -5,7 +5,7 @@
 [[Core Data]]  [[JSON]]  
 
 
-[[SwiftUI Essentials]]
+[[SwiftUI Essentials Pro]]
 
 
 #MD-grammar

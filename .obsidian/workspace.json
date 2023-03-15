@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Swift Package Manager Problems.md",
+                "file": "NOTES/Xcode SC.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Swift Package Manager Problems.md",
+                "file": "NOTES/Xcode SC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,13 +107,15 @@
   },
   "active": "8ed2533cfbcbb081",
   "lastOpenFiles": [
+    "SwiftUI Essentials Pro.md",
+    "NOTES/SwiftUI Essentials.md",
+    "NOTES/Swift Package Manager Problems.md",
     "Untitled.canvas",
     "GIT notes.md",
     "macOS notes.md",
     "Notes Organizer.md",
     "NOTES/Xcode SC.md",
     "Generative Pre-trained Transformer notes.md",
-    "SwiftUI Essentials.md",
     "SQL notes.md",
     "README.md",
     "Images/group_by.png",
@@ -121,7 +123,6 @@
     "NOTES/DatePicker.md",
     "2Paul.md",
     "NOTES/Icon\r",
-    "NOTES/Swift Package Manager Problems.md",
     "NOTES/Xcode Tips.md",
     "NOTES/Core Data.md",
     "Generative Pre-trained Transformer Notes.md",
