@@ -11,8 +11,12 @@
             "id": "8ed2533cfbcbb081",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Swift Package Manager Problems.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NOTES/Swift Package Manager Problems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61c581149eccadaa",
+  "active": "8ed2533cfbcbb081",
   "lastOpenFiles": [
     "Untitled.canvas",
     "GIT notes.md",
@@ -116,7 +121,7 @@
     "NOTES/DatePicker.md",
     "2Paul.md",
     "NOTES/Icon\r",
-    "NOTES/Swift Package Manager.md",
+    "NOTES/Swift Package Manager Problems.md",
     "NOTES/Xcode Tips.md",
     "NOTES/Core Data.md",
     "Generative Pre-trained Transformer Notes.md",
