@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bab60fb00ac2c96",
+        "id": "94b65f87b8ef362a",
         "type": "tabs",
         "children": [
           {
-            "id": "8ed2533cfbcbb081",
+            "id": "87845a6603fe655c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Xcode SC.md",
+                "file": "macOS notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/Xcode SC.md",
+                "file": "macOS notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,18 +105,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8ed2533cfbcbb081",
+  "active": "87845a6603fe655c",
   "lastOpenFiles": [
+    "GIT notes.md",
+    "macOS notes.md",
+    "Generative Pre-trained Transformer Notes.md",
+    "Notes Organizer.md",
+    "SQL notes.md",
     "SwiftUI Essentials Pro.md",
+    "NOTES/Xcode SC.md",
     "NOTES/SwiftUI Essentials.md",
     "NOTES/Swift Package Manager Problems.md",
     "Untitled.canvas",
-    "GIT notes.md",
-    "macOS notes.md",
-    "Notes Organizer.md",
-    "NOTES/Xcode SC.md",
     "Generative Pre-trained Transformer notes.md",
-    "SQL notes.md",
     "README.md",
     "Images/group_by.png",
     "Images",
@@ -125,7 +126,6 @@
     "NOTES/Icon\r",
     "NOTES/Xcode Tips.md",
     "NOTES/Core Data.md",
-    "Generative Pre-trained Transformer Notes.md",
     "NOTES/The .xcodeproj.md"
   ]
 }

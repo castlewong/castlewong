@@ -4,5 +4,6 @@
   "cssTheme": "",
   "interfaceFontFamily": "Arial Rounded MT Bold,PT Mono,American Typewriter",
   "textFontFamily": "Inter,Arial Unicode MS,JetBrains Mono,Arial Rounded MT Bold",
-  "translucency": true
+  "translucency": true,
+  "baseFontSize": 10
 }

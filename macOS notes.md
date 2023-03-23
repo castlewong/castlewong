@@ -1,4 +1,11 @@
 
+use offical website to download VS Code, the speed is so slow, find a way to workaround:
+在 VS Code 官网下载 macOS 版 VS Code 好慢, 找到方法加速了:
+更改国内镜像地址前缀：http://vscode.cdn.azure.cn
+把下载地址stable 之前的替换成上述国内镜像, 即为：http://vscode.cdn.azure.cn/stable/622cb03f7e070a9670c94bae1a45d78d7181fbd4/VSCode-darwin.zip
+
+command tab - switch apps used recently
+
 `command 3` view as columns
 `ctrl command 0` group by kind
 
@@ -44,12 +51,16 @@ This is the beauty of pure-keyboarding opreating, I want to learn master vim now
 
 3.  emacs:
 
-Copy code
-
 `emacs <filename>`
 
 This will open the file in the emacs editor. The key bindings for editing in emacs can be quite different than in other editors, so consult a reference guide or tutorial for more information. When you're done editing, press "Ctrl + X, Ctrl + S" to save the changes and "Ctrl + X, Ctrl + C" to exit emacs.
 
 Note that these are just a few examples of the text editors you can use in Bash, and there are many more options available.
 
-[dd](https://github.com/castlewong/castlewong)
+**Check md5 on macOS**
+1. In Terminal, type
+```bash
+md5 <filename>
+```
+2. open the md5 file using textedit.app, compare the MD5 sum of the file with the one displayed in the terminal. 
+3. If they are exactly the same, the file was downloaded successfully.
