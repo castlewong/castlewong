@@ -1,7 +1,36 @@
 
-
-
 [toc]
+
+
+## Basic git
+
+Change the current command line chat to another directory, use 3 commands:
+
+- pwd
+- ls
+- cd
+
+pwd means **print working directory**, it shows the abouslute directory of current file path.
+
+ls means list **directory contents**, it lists all content of current file path.
+
+cd stands for **change directory**, use it to jump to any file path you assign, if not, it would bring you to the home folder, the **~** do the same.
+
+|           COMMAND           |                           FUNCTION                           |
+| :-------------------------: | :----------------------------------------------------------: |
+|            cd ..            |                         Upper lever                          |
+|            cd -             |                  Back to last path of file                   |
+|       rm [file name]        |                         Delete file                          |
+|       cat [file name]       |                          Check file                          |
+|            mkdiv            |                    Create new file folder                    |
+| git add [file1] [file2] ... | Add changes of choosed file(s) in the working directory to the staging area |
+|       git checkout .        |            Discharge changes in working directory            |
+|       git log --stat        |        Show git history, and files that been changed         |
+|        `git status`         |         check the current status of this repository          |
+
+git branch (branchname)
+
+git checkout (branchname)
 
 > Relative links and image paths in README files
 
@@ -26,6 +55,10 @@ how to amend the time of commit:
 git commit --amend --date="YYYY-MM-DD HH:MM:SS"
 ```
 
+> Commit assign details
+
+git commit --date="Jan 26 14:19:54 2023 +0800" -am "SSH details."
+
 
 ## You can't merge with local modifications. 
 
@@ -35,7 +68,7 @@ You have three options:
 
 - Commit the change using
   
-    ```
+    ```git
     git commit -m "My message"
     ```
     
@@ -45,13 +78,13 @@ You have three options:
     
     To stash, type
     
-    ```
+    ```git
     git stash
     ```
     
     Do the merge, and then pull the stash:
     
-    ```
+    ```git
     git stash pop
     ```
     
@@ -65,7 +98,7 @@ You have three options:
     using `git checkout filename`
 
 
-## To ignore certain files in Git, 
+## To ignore certain files in Git,
 
 you can create a file called `.gitignore` in the root directory of your Git repository and list the files or patterns that you want Git to ignore.
 
@@ -80,7 +113,7 @@ Here's how you can create a `.gitignore` file and add files or patterns to ignor
 1. Open Terminal on your macOS machine.
 2. Navigate to the root directory of your Git repository by using the `cd` command. For example, if your Git repository is located at `/Users/YourUserName/Documents/MyProject`, you can navigate to it by running the following command:
 
-```
+```shell
 bashCopy code
 cd /Users/YourUserName/Documents/MyProject
 ```
@@ -139,39 +172,7 @@ Git will now ignore the files or patterns that you listed in the `.gitignore` fi
 
 4. Return
 
-## Basic git
 
-Change the current command line chat to another directory, use 3 commands:
-
-- pwd
-- ls
-- cd
-
-pwd means **print working directory**, it shows the abouslute directory of current file path.
-
-ls means list **directory contents**, it lists all content of current file path.
-
-cd stands for **change directory**, use it to jump to any file path you assign, if not, it would bring you to the home folder, the **~** do the same.
-
-|           COMMAND           |                           FUNCTION                           |
-| :-------------------------: | :----------------------------------------------------------: |
-|            cd ..            |                         Upper lever                          |
-|            cd -             |                  Back to last path of file                   |
-|       rm [file name]        |                         Delete file                          |
-|       cat [file name]       |                          Check file                          |
-|            mkdiv            |                    Create new file folder                    |
-| git add [file1] [file2] ... | Add changes of choosed file(s) in the working directory to the staging area |
-|       git checkout .        |            Discharge changes in working directory            |
-|       git log --stat        |        Show git history, and files that been changed         |
-|        `git status`         |         check the current status of this repository          |
-
-git branch (branchname)
-
-git checkout (branchname)
-
-## Commit assign details
-
-git commit --date="Jan 26 14:19:54 2023 +0800" -am "SSH details."
 
 ## Could not read from remote repository. 
 
@@ -179,15 +180,25 @@ Encountered this:
 
 > Could not read from remote repository. 
 
-<img src="/Users/inside/Documents/castlewong/git_images/couldnot_read_from.png"  />
-
+![[couldnot_read_from.png]]
 This error informs us we have an authentication issue on SSH.
 
 SSH stands for 
 
 > Secure Shell Protocol.
 
-If we encounter an SSH authentication issue, our first port of call is to add your key to the SSH keychain:
+```bash
+ssh-keygen -t ed25519 -C "youremail@some.com"
+```
+
+this command generate private key and public key in your pc
+then use code below to copy your public key
+```bash
+pbcopy < ~/.ssh/id_ed25519.pub
+```
+Go to GitHub-setting-SSH
+Add new Key
+> If we encounter an SSH authentication issue, our first port of call is to add your key to the SSH keychain:
 
 ```javascript
 ssh-add ~/.ssh/id_rsa
@@ -195,8 +206,7 @@ ssh-add ~/.ssh/id_rsa
 
 This will add our id_rsa key to the keychain.
 
-![](/Users/inside/Documents/castlewong/git_images/add_id_rsa.png)
-
+![[add_id_rsa.png]]
 Now, test the SSH connection:
 
 1. 打开终端。
@@ -208,28 +218,21 @@ Now, test the SSH connection:
    # Attempts to ssh to GitHub
    ```
 
-   ![](/Users/inside/Documents/castlewong/git_images/identity_added.png)
-
    您可能会看到类似如下的警告：
+```shell
+The authenticity of host 'github.com (IP ADDRESS)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)?
+```
 
-   ```shell
-   > The authenticity of host 'github.com (IP ADDRESS)' can't be established.
-   > RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
-   > Are you sure you want to continue connecting (yes/no)?
-   ```
+验证所看到消息中的指纹是否与 [GitHub 的公钥指纹](https://docs.github.com/zh/github/authenticating-to-github/githubs-ssh-key-fingerprints)匹配。 如果是，则键入 `yes`：
 
-3. 验证所看到消息中的指纹是否与 [GitHub 的公钥指纹](https://docs.github.com/zh/github/authenticating-to-github/githubs-ssh-key-fingerprints)匹配。 如果是，则键入 `yes`：
-
-   ```shell
    > Hi USERNAME! You've successfully authenticated, but GitHub does not
    > provide shell access.
-   ```
-
+   
    注意：远程命令应退出，并显示代码 1。
 
 4. 验证生成的消息包含您的用户名。 如果收到“权限被拒绝”消息，请参阅“[错误：权限被拒绝（公钥）](https://docs.github.com/zh/articles/error-permission-denied-publickey)”。
 
 Now, try again to clone proj. to local file folder:
-
-![](/Users/inside/Documents/castlewong/git_images/clone_success.png)
 

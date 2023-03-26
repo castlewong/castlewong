@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macOS notes.md",
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e589c8227669947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes organizer.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macOS notes.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +120,20 @@
   "active": "87845a6603fe655c",
   "lastOpenFiles": [
     "GIT notes.md",
+    "README.md",
+    "notes organizer.md",
     "macOS notes.md",
+    "Users/inside/Documents/castlewong/git_images/add_id_rsa.png.md",
+    "Users/inside/Documents/castlewong/git_images",
+    "Users/inside/Documents/castlewong",
+    "Users/inside/Documents",
+    "Users/inside",
+    "Users",
+    "Images/git_images/identity_added.png",
+    "Images/git_images/github_animation.mov",
+    "Images/git_images/clone_success.png",
+    "Images/git_images/add_id_rsa.png",
     "Generative Pre-trained Transformer Notes.md",
-    "Notes Organizer.md",
     "SQL notes.md",
     "SwiftUI Essentials Pro.md",
     "NOTES/Xcode SC.md",
@@ -118,7 +141,6 @@
     "NOTES/Swift Package Manager Problems.md",
     "Untitled.canvas",
     "Generative Pre-trained Transformer notes.md",
-    "README.md",
     "Images/group_by.png",
     "Images",
     "NOTES/DatePicker.md",

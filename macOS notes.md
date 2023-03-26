@@ -1,4 +1,14 @@
 
+> **is damaged and can’t be opened. you should move it to the trash**
+
+sudo xattr -r -d com.apple.quarantine /Applications/Charles.app
+
+> **If battery charging is paused or on hold on your Mac**
+
+With macOS Big Sur or later, your Mac learns from your charging habits to improve the lifespan of your battery.
+
+In macOS Big Sur or later, Optimized Battery Charging is designed to improve the lifespan of your battery and reduce the time your Mac spends fully charged. When the feature is enabled, your Mac will delay charging past 80% in certain situations. Your Mac learns your charging routine and aims to ensure that your Mac is fully charged when unplugged.
+
 use offical website to download VS Code, the speed is so slow, find a way to workaround:
 在 VS Code 官网下载 macOS 版 VS Code 好慢, 找到方法加速了:
 更改国内镜像地址前缀：http://vscode.cdn.azure.cn
