@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "SQL notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,8 +119,8 @@
   },
   "active": "87845a6603fe655c",
   "lastOpenFiles": [
-    "GIT notes.md",
     "README.md",
+    "GIT notes.md",
     "notes organizer.md",
     "macOS notes.md",
     "Users/inside/Documents/castlewong/git_images/add_id_rsa.png.md",
