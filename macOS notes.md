@@ -116,3 +116,18 @@ Step-by-step instructions for creating an alias in the macOS Terminal:
    ```
 
 That's it! You should now be able to use your new alias by typing `cd [alias_name]` in the terminal. For example, you can navigate to your Documents folder by typing `cd docs`.
+
+## zsh: This is the way. 1
+
+Share some efficient skills you can use with zsh in macOS:
+
+1. **Tab completion**: Zsh has a powerful tab completion feature that can save you a lot of time. For example, if you type `cd /u/l/b` and press the `Tab` key, zsh will automatically complete the path to `/usr/local/bin`.
+
+2. **Aliases**: You can create aliases for frequently used commands to save time. For example, you can create an alias for `ls -la` by adding the following line to your `~/.zshrc` file: `alias ll='ls -la'`. Then, you can simply type `ll` instead of `ls -la`.
+
+3. **History search**: Zsh allows you to search your command history using the `Ctrl+R` shortcut. Simply press `Ctrl+R` and start typing a command you previously used. Zsh will search your history and display matching commands.
+
+4. **Auto-suggestions**: Zsh can suggest commands based on your command history and current input. To enable this feature, add the following line to your `~/.zshrc` file: `plugins=(zsh-autosuggestions)`. Then, start a new terminal session and try typing a command. Zsh will suggest commands based on your history and current input.
+
+5. **Custom prompts**: You can customize your zsh prompt to display useful information, such as the current directory, git branch, and more. To customize your prompt, add the following line to your `~/.zshrc` file: `PROMPT='%n@%m:%~$(git_prompt_info) %# '`. This will display your username, hostname, current directory, and git branch (if applicable) in your prompt.
+
