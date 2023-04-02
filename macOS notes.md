@@ -1,4 +1,6 @@
 
+
+
 > **is damaged and can’t be opened. you should move it to the trash**
 
 sudo xattr -r -d com.apple.quarantine /Applications/Charles.app
@@ -74,3 +76,43 @@ md5 <filename>
 ```
 2. open the md5 file using textedit.app, compare the MD5 sum of the file with the one displayed in the terminal. 
 3. If they are exactly the same, the file was downloaded successfully.
+
+### Use alias in macOS Terminal
+
+Step-by-step instructions for creating an alias in the macOS Terminal:
+
+1. Open your terminal application: You can do this by clicking on the Terminal icon in your Applications folder, or by searching for "Terminal" in Spotlight (the magnifying glass icon in the top-right corner of your screen).
+
+2. Open your shell configuration file: The shell configuration file is a text file that contains settings and customizations for your terminal session. In macOS, the default shell is usually Bash, so we'll use that as an example. To open your `~/.bash_profile` file in nano (a simple text editor), type the following command and press Enter:
+
+   ```shell
+   nano ~/.bash_profile
+   ```
+
+   If you don't have a `.bash_profile` file yet, nano will create one for you when you save.
+
+3. Create the alias: In the nano editor, add a new line at the bottom of the file with the following format:
+
+   ```shell
+   alias [alias_name]="[command_or_path]"
+   ```
+
+   Replace `[alias_name]` with whatever name you want to use for your alias, and replace `[command_or_path]` with the command or path that you want to run when you type the alias. 
+
+   For example, if you want to create an alias called "docs" that points to your Documents folder, you would type:
+
+   ```shell
+   alias docs="cd /Users/yourusername/Documents"
+   ```
+
+   Make sure to replace `yourusername` with your actual username.
+
+4. Save and exit: Press `Ctrl+O` to save the file, then press `Ctrl+X` to exit nano.
+
+5. Reload the shell configuration: To make the alias available in your current terminal session, you need to reload the shell configuration file. You can do this by typing the following command and pressing Enter:
+
+   ```shell
+   source ~/.bash_profile
+   ```
+
+That's it! You should now be able to use your new alias by typing `cd [alias_name]` in the terminal. For example, you can navigate to your Documents folder by typing `cd docs`.

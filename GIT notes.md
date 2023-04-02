@@ -236,3 +236,26 @@ Are you sure you want to continue connecting (yes/no)?
 
 Now, try again to clone proj. to local file folder:
 
+
+
+## Create new branch in Git
+To create a new branch in Git, you can use the command "git checkout -b <new-branch-name>". Here's how you can do it step-by-step:
+
+Open your Git terminal or command prompt.
+Navigate to the local Git repository where you want to create the new branch.
+Make sure you're on the branch from which you want to create the new branch.
+Type the command 
+
+```git
+git checkout -b <new-branch-name>
+```
+and hit Enter. Replace <new-branch-name> with the name you want to give to the new branch. This command creates a new branch and switches to it.
+You can now make changes to the code in this new branch without affecting the original branch.
+
+
+
+
+## Add alias in bash or zsh sessions
+
+Aliases defined in `.bash_profile` will only be available in Bash sessions, and not in other shells like Zsh. 
+To use the `ca` alias in Zsh, you will need to define it in your `.zshrc` file instead.
