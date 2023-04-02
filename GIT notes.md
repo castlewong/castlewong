@@ -258,4 +258,4 @@ You can now make changes to the code in this new branch without affecting the or
 ## Add alias in bash or zsh sessions
 
 Aliases defined in `.bash_profile` will only be available in Bash sessions, and not in other shells like Zsh. 
-To use the `ca` alias in Zsh, you will need to define it in your `.zshrc` file instead.
+To use the `ca` alias in Zsh, you will need to define it in your `.zshrc` file instead.d
