@@ -1,5 +1,5 @@
 
-
+Backlog means sth. should be done but haven't be done.
 
 > **is damaged and can’t be opened. you should move it to the trash**
 

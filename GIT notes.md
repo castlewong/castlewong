@@ -60,6 +60,48 @@ git commit --amend --date="YYYY-MM-DD HH:MM:SS"
 git commit --date="Jan 26 14:19:54 2023 +0800" -am "SSH details."
 
 
+## Add alias in bash or zsh sessions
+
+Aliases defined in `.bash_profile` will only be available in Bash sessions, and not in other shells like Zsh. 
+To use the `ca` alias in Zsh, you will need to define it in your `.zshrc` file instead.
+
+
+## GIT DATE
+git 修改日期的方法很简单，因为有一个命令`--date` 可以设置 git 提交时间
+
+默认的 git 的提交时间会受到系统的时间的影响，如果想要系统的时间不会影响到 git 的提交时间，请使用本文的方式，自己指定提交的时间
+
+使用git自定义时间的提交格式：
+
+```csharp
+git commit --date="月 日 时间 年 +0800" -am "提交"
+```
+
+如果我要把日期修改为 2016.5.7 那么我可以使用下面代码
+
+```csharp
+git commit --date="May 7 9:05:20 2016 +0800" -am "提交"
+```
+
+其中我希望大家知道的：
+
+各个月份的缩写，不然每次都需要去百度一下
+
+```csharp
+January, Jan.
+February, Feb.
+March, Mar.
+April, Apr.
+May, May.
+June, Jun.
+July, Jul.
+August, Aug.
+September, Sep.
+October, Oct.
+November, Nov.
+December, Dec.
+```
+
 ## You can't merge with local modifications. 
 
 Git protects you from losing potentially important changes.
@@ -255,7 +297,7 @@ You can now make changes to the code in this new branch without affecting the or
 
 
 
-## Add alias in bash or zsh sessions
 
-Aliases defined in `.bash_profile` will only be available in Bash sessions, and not in other shells like Zsh. 
-To use the `ca` alias in Zsh, you will need to define it in your `.zshrc` file instead.
+
+
+
