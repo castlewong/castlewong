@@ -34,14 +34,13 @@
 
 首先使用了`@Environment`环境变量从环境中获取托管对象上下文`viewContext`：
 
-```
+```swift
 @Environment(\.managedObjectContext) var context
-复制代码
 ```
 
 然后创建管理对象，并使用`context`上下文的`save`方法将对象添加到`数据库`中：
 
-```
+```swift
 //示例代码
 let task = ToDoItem(context: context)
 

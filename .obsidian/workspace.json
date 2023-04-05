@@ -11,8 +11,12 @@
             "id": "c9511431c1367509",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/CoreData数据持久化框架的使用1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NOTES/CoreData数据持久化框架的使用1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +107,7 @@
   },
   "active": "c9511431c1367509",
   "lastOpenFiles": [
+    "NOTES/Core Data.md",
     "README.md",
     "GIT notes.md",
     "macOS notes.md",
@@ -130,7 +136,6 @@
     "2Paul.md",
     "NOTES/Icon\r",
     "NOTES/Xcode Tips.md",
-    "NOTES/Core Data.md",
     "NOTES/The .xcodeproj.md"
   ]
 }
