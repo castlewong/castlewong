@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f2a92169b095232",
+        "id": "ee8c781d3a590d7e",
         "type": "tabs",
         "children": [
           {
-            "id": "c6e9d19be534ecd7",
+            "id": "c9511431c1367509",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -100,12 +100,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c6e9d19be534ecd7",
+  "active": "c9511431c1367509",
   "lastOpenFiles": [
+    "README.md",
     "GIT notes.md",
     "macOS notes.md",
     "Generative Pre-trained Transformer Notes.md",
-    "README.md",
     "SQL notes.md",
     "notes organizer.md",
     "Users/inside/Documents/castlewong/git_images/add_id_rsa.png.md",

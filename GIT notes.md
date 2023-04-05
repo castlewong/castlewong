@@ -301,3 +301,18 @@ You can now make changes to the code in this new branch without affecting the or
 
 
 
+
+## git add .
+is a Git command that adds all the changes in the current directory and its subdirectories to the staging area. 
+
+The staging area is a temporary storage area in Git where you can prepare changes before committing them to the repository. When you run `git add .`, Git will scan the current directory and its subdirectories for any changes, and add them to the staging area. This includes new files, modified files, and deleted files.
+
+Once you have added the changes to the staging area using `git add .`, you can review the changes using `git status`. This will show you the files that have been modified, added, or deleted, and are ready to be committed.
+
+To commit the changes to the repository, you can use the `git commit` command. For example, to commit the changes with a commit message "Added new feature", you can run the following command:
+
+```
+git commit -m "Added new feature"
+```
+
+This will commit the changes to the repository with the specified commit message.
