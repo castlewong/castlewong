@@ -1,11 +1,11 @@
 
-/Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-evibdvkrswgoslckotefavxawdbe/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Task Manager Core Data.build/Debug-iphonesimulator/Task Manager Core Data.build/Objects-normal/arm64/Task_Manager_Core_Data.swiftmodule /Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-evibdvkrswgoslckotefavxawdbe/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Task Manager Core Data.build/Debug-iphonesimulator/Task Manager Core Data.build/Objects-normal/arm64/Task_Manager_Core_Data.swiftmodule: No such file or directory
-/Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-evibdvkrswgoslckotefavxawdbe/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Charts.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Charts.abi.json /Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-evibdvkrswgoslckotefavxawdbe/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Charts.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Charts.abi.json: No such file or directory
-/Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-bahauefsjcaeeldiyyikcwhhxskk/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Charts.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Charts.abi.json /Users/wilburwong/Library/Developer/Xcode/DerivedData/Task_Manager_Core_Data-bahauefsjcaeeldiyyikcwhhxskk/Build/Intermediates.noindex/Previews/Task Manager Core Data/Intermediates.noindex/Charts.build/Debug-iphonesimulator/Charts.build/Objects-normal/arm64/Charts.abi.json: No such file or directory
 
 
 
 Xcode shortcuts for SwiftUI
+
+option command [
+move up
 
 jump to definition-**ctrl command click**
 
