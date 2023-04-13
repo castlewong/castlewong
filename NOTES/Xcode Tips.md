@@ -1,4 +1,82 @@
+alias
 
+
+
+
+
+
+----
+
+
+----
+
+----
+
+
+
+
+
+----
+
+TabView top space
+```swift
+.ignoresSafeArea(.container, edges: .top)
+```
+ 
+----
+
+The Swift Package Manager not only allows [adding remote libraries as Swift Packages](https://tanaschita.com/20210416-how-to-add-public-library-with-swift-package-manager-for-ios), but also local Swift Packages.
+
+This possibility is useful, for example, when splitting a project into multiple libraries without having to worry about versioning and being able to directly edit the code.
+
+This tip is a quick start for adding local Swift Packages to an iOS project. For more in-depth concepts, check out this [Guide on the Swift Package Manager for iOS](https://tanaschita.com/20210417-quick-guide-on-swift-package-manager-for-ios).
+
+### Adding a local Swift Package to an iOS project
+
+Basically, adding a local Swift Package requires two steps.
+
+1.  Drag and drop the local package into the Xcode project or workspace.
+2.  Add it to the Frameworks, Libraries, and Embedded Content section in app targets general pane.
+
+[![Adding local Swift Packages](https://tanaschita.com/static/237493fe05830cce0d5f7fca0a469830/2e9ed/20210417_local_swift_package_add_to_target.png "Adding local Swift Packages")](https://tanaschita.com/static/237493fe05830cce0d5f7fca0a469830/e0c85/20210417_local_swift_package_add_to_target.png)
+
+Adding local Swift Packages
+
+After doing that, we can import our local packages into our Swift files as we would do with any other library.
+
+[![Using local Swift Packages in an iOS project](https://tanaschita.com/static/5b443ed565688f47e65010d069736c14/2e9ed/20210417_local_swift_package_dependencies.png "Using local Swift Packages in an iOS project")](https://tanaschita.com/static/5b443ed565688f47e65010d069736c14/c71fc/20210417_local_swift_package_dependencies.png)
+
+Using local Swift Packages in an iOS project
+
+### Removing a local Swift Package
+
+Removing a local Swift Package from the project works the same as removing any other file from the project.
+
+[link](https://tanaschita.com/20210417-how-to-add-local-swift-package-to-ios-project/)
+
+
+----
+Zsh: Permission denied Terminal error
+```shell
+chmod u+x *.sh
+```
+chmod change the permissions mode of a file
+u owner
+x exeactive access
++ add access
+
+----
+Microsoft Auto Update
+
+打开终端
+
+1.  cd /Library/Application\ Support/Microsoft/MAU2.0
+2.  sudo chmod 000 Microsoft\ AutoUpdate.app
+
+输入密码。这样Microsoft AutoUpdate.app就没有执行权限了
+
+
+sudo xattr -r -d com.apple.quarantine  //记得最后保留一个空格，需要在“应用程序”里找到对应程序图片，拖拽到终端里，也就是命令行后面
 
 
 
