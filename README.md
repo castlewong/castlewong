@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
 <!-- > 🔭 I’m currently working on Python projects
  -->
@@ -6,9 +6,12 @@
 
 <!-- > 👯 I’m looking to collaborate on Swift.
  -->
+ My name's Wilbur Wong, an enthusiastic explorer of Internet.
 > 📫 How to reach me: 
 > Mail 📮 hulkbuster0114@gmail.com 
-> [🏜 Website](https://castle.montaigne.io/) WeChat WilburStereo [🐦Twitter]() 
+> [🏜 Website](https://castle.montaigne.io/) 
+> WeChat WilburStereo
+>  [🐦Twitter]() 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=castlewong&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/castlewong/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castlewong&layout=compact&theme=default&hide_border=true&langs_count=9&count_private=true" /></a> |
 | ------------- | ------------- |
@@ -21,9 +24,8 @@
 
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython)
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](http://figma.com/)
 <!-- [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/golang/go) -->
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](http://figma.com/)
 <!-- [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
  -->
 
