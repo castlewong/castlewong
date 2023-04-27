@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-> 🔭 I’m currently working on Python projects
-
+<!-- > 🔭 I’m currently working on Python projects
+ -->
 <!-- [![Wilbur's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlewong&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
-> 👯 I’m looking to collaborate on Swift.
-
+<!-- > 👯 I’m looking to collaborate on Swift.
+ -->
 > 📫 How to reach me: 
 > Mail 📮 hulkbuster0114@gmail.com 
 > [🏜 Website](https://castle.montaigne.io/) WeChat WilburStereo [🐦Twitter]() 
@@ -22,10 +22,10 @@
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython)
-[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/golang/go)
+<!-- [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/golang/go) -->
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](http://figma.com/)
-[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
-
+<!-- [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+ -->
 
 > 💬 Hobby: Translate YouTube Videos on Digital Gadgets' Review:
 [THE VERGE](https://www.bilibili.com/video/BV1F8411b7TQ?share_source=copy_web&vd_source=fbfb2c6749d5593cae78115df25c5d18) [TECH CHAP](https://www.bilibili.com/video/BV1bh411x7Sy?share_source=copy_web&vd_source=fbfb2c6749d5593cae78115df25c5d18) [Mrwhosethebose](https://www.bilibili.com/video/BV1ui4y1E74o?share_source=copy_web&vd_source=fbfb2c6749d5593cae78115df25c5d18)
