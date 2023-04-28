@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "吴恩达的Prompt Engineering课程（含翻译稿）.md",
                 "mode": "preview",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "吴恩达的Prompt Engineering课程（含翻译稿）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +107,11 @@
   },
   "active": "07d894e8cd6a7b22",
   "lastOpenFiles": [
+    "README.md",
+    "吴恩达的Prompt Engineering课程（含翻译稿）.md",
     "GIT notes.md",
     "macOS notes.md",
     "notes organizer.md",
-    "README.md",
     "X/withAnimation.md",
     "X/SwiftUI Essentials Pro.md",
     "X/Xcode SC.md",
