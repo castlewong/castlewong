@@ -2,13 +2,44 @@ Generative Pre-trained Transformer Notes
 
 
 
-------
+Journal app slogan iFeel
+
+ here are some slogan options that incorporate puns using the name "iFeel":
+
+- "Journaling made i-easy with iFeel!"
+- "Get all the feels with iFeel - the pun-tastic journal app!"
+- "iFeel: the app that'll leave you (em)otionless."
+- "Looking for a journal app that'll make you i-feel better? Choose iFeel!"
+- "Don't just journal - iFeel better with iFeel!"
+- "iFeel the need to journal? Download the pun-tastic journal app today!"
+- "Express yourself in i-mazing ways with iFeel."
+- "iFeel like journaling - thank goodness for iFeel!"
+- "With iFeel, your journal entries are sure to steal the i's of your grateful readers!"
+- "iFeel your pain - writing in a journal can be a hassle. That's why we made iFeel!"
+
+Chat app slogan
+
+you are a chat app, called lovechat, write youself some slogan
+
+"Bringing people closer, one chat at a time."
+
+
+
+more
+
+
+
+
+
+"Love is just a chat away with LoveChat." "Explore love, meet new people, and chat your heart out with LoveChat." "Connecting hearts across the world with LoveChat." "Experience the magic of love through our seamless chatting platform."
 
 PieChart
 
 
-
+```swift
 import SwiftUI
+
+
 
 struct PieChart: View {
     
@@ -37,6 +68,10 @@ struct PieChart: View {
         return .degrees(currentTotal / total * 360)
     }
 }
+
+```
+
+```swift
 
 struct PieChartSlice: Shape {
     
@@ -84,14 +119,13 @@ var body: some View {
             .frame(width: 200, height: 200)
     }
 }
-```
 }
-
 struct PieChart_Previews: PreviewProvider {
     static var previews: some View {
         PieChartView()
     }
 }
+```
 
 上面`PieChart`区域的主要目的是接受一组`ChartData`值，并将其转换为一组`PieChartSlice`来显示。该特定饼图具有三个均等的切片（颜色为红色，绿色和蓝色），每个切片可根据其相对值进行调整。除此之外，还添加了`PieChartSlice`路径。 为了实现它，我们必须按如下方式重写PieChartSlice：
 
