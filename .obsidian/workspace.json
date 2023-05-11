@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f9538a92677691",
+        "id": "5a5a854db40bfcdc",
         "type": "tabs",
         "children": [
           {
-            "id": "07d894e8cd6a7b22",
+            "id": "3182a048b87add7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "吴恩达的Prompt Engineering课程（含翻译稿）.md",
-                "mode": "preview",
+                "file": "SQL notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -57,6 +57,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "b766e54457fa6b33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -78,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "吴恩达的Prompt Engineering课程（含翻译稿）.md",
+                "file": "SQL notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,11 +113,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "07d894e8cd6a7b22",
+  "active": "3182a048b87add7a",
   "lastOpenFiles": [
-    "README.md",
     "吴恩达的Prompt Engineering课程（含翻译稿）.md",
     "GIT notes.md",
+    "SQL notes.md",
+    "README.md",
     "macOS notes.md",
     "notes organizer.md",
     "X/withAnimation.md",
@@ -121,7 +130,6 @@
     "X/CoreData数据持久化框架的使用1.md",
     "X/Core Data.md",
     "Generative Pre-trained Transformer Notes.md",
-    "SQL notes.md",
     "X/Users/inside/Documents/castlewong/git_images/add_id_rsa.png.md",
     "X/Users/inside/Documents/castlewong/git_images",
     "X/Users/inside/Documents/castlewong",
