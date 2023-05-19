@@ -4,6 +4,7 @@ SQL note
 ## 表A和表B中的guid列是相同的，想要更新表B中对应行的road_id列
 可以使用以下SQL语句：
 
+
 ```
 UPDATE table_b
 SET road_id = a.road
