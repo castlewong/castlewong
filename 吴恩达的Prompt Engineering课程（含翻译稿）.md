@@ -1,6 +1,6 @@
 ![](https://static.xiaobot.net/file/2023-04-28/138610/812be096045fa9aee10694784c3e72c2.png!post)
 
-**吴恩达**（人工智能和深度学习领域的全球知名学者、斯坦福大学教授、前谷歌大脑和百度人工智能实验室创始人，Coursera联合创始人）和OpenAI的开发工程师Isabella Fulford一起做了个面向开发者的Prompt Engineering课程。这就跟詹姆斯来手把手给你教运球似的，没理由不好好学，尤其是如果你是开发者的话。
+**吴恩达**（人工智能和深度学习领域学者、前谷歌大脑和百度人工智能实验室创始人，Coursera联合创始人）和OpenAI的开发工程师Isabella Fulford一起做了个面向开发者的Prompt Engineering课程。这就跟詹姆斯来手把手给你教运球似的，没理由不好好学，尤其是如果你是开发者的话。
 
 **吴恩达课程链接：**[](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)**[learn.deeplearning.ai](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)**
 

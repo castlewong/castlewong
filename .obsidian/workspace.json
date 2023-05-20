@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL notes.md",
+                "file": "吴恩达的Prompt Engineering课程（含翻译稿）.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL notes.md",
+                "file": "吴恩达的Prompt Engineering课程（含翻译稿）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,11 +113,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3182a048b87add7a",
+  "active": "61c581149eccadaa",
   "lastOpenFiles": [
+    "SQL notes.md",
     "吴恩达的Prompt Engineering课程（含翻译稿）.md",
     "GIT notes.md",
-    "SQL notes.md",
     "README.md",
     "macOS notes.md",
     "notes organizer.md",
