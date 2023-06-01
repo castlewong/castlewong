@@ -1,5 +1,4 @@
 
-[toc]
 
 
 ## Basic git
@@ -46,7 +45,6 @@ GitHub will automatically transform your relative link or image path based on wh
 
 Relative links are easier for users who clone your repository. Absolute links may not work in clones of your repository - we recommend using relative links to refer to other files within your repository.
 
-
 Use `git log -1` to view the last commit.
 
 how to amend the time of commit:
@@ -66,7 +64,7 @@ Aliases defined in `.bash_profile` will only be available in Bash sessions, and 
 To use the `ca` alias in Zsh, you will need to define it in your `.zshrc` file instead.
 
 
-## GIT DATE
+## GIT at DATE
 git 修改日期的方法很简单，因为有一个命令`--date` 可以设置 git 提交时间
 
 默认的 git 的提交时间会受到系统的时间的影响，如果想要系统的时间不会影响到 git 的提交时间，请使用本文的方式，自己指定提交的时间
