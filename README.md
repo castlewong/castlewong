@@ -1,12 +1,12 @@
 ### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
-<!-- > 🔭 I’m currently working on Python projects
+<!-- > 🔭 I’m currently working on iOS and xrOS projects
  -->
 <!-- [![Wilbur's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlewong&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- > 👯 I’m looking to collaborate on Swift.
  -->
- My name's Wilbur Wong, an enthusiastic explorer of Internet.
+ My name's Wilbur Wong, an enthusiastic explorer of xrOS and SwiftUI.
 > 📫 How to reach me: 
 > Mail 📮 hulkbuster0114@gmail.com 
 > [🏜 Website](https://castle.montaigne.io/) 
