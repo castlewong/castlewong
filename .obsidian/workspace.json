@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "GIT notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0a2e9a088aa0daa6",
@@ -113,7 +114,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61c581149eccadaa",
+  "active": "3182a048b87add7a",
   "lastOpenFiles": [
     "吴恩达的Prompt Engineering课程（含翻译稿）.md",
     "SQL notes.md",

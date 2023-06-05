@@ -1,6 +1,8 @@
 
 
 
+- **git blame <file>** - 以列表形式查看指定文件的历史修改记录。
+
 ## Basic git
 
 Change the current command line chat to another directory, use 3 commands:
