@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5a5a854db40bfcdc",
+        "id": "267b307ac8606fc5",
         "type": "tabs",
         "children": [
           {
-            "id": "3182a048b87add7a",
+            "id": "f897c1b3e553bb1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT notes.md",
-                "mode": "preview",
+                "file": "SQL notes.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0a2e9a088aa0daa6",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT notes.md",
+                "file": "SQL notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +113,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3182a048b87add7a",
+  "active": "61c581149eccadaa",
   "lastOpenFiles": [
-    "吴恩达的Prompt Engineering课程（含翻译稿）.md",
-    "SQL notes.md",
     "GIT notes.md",
-    "README.md",
+    "JSON.md",
+    "Core Data.md",
     "macOS notes.md",
     "notes organizer.md",
+    "吴恩达的Prompt Engineering课程（含翻译稿）.md",
+    "SQL notes.md",
+    "README.md",
     "X/withAnimation.md",
     "X/SwiftUI Essentials Pro.md",
     "X/Xcode SC.md",
