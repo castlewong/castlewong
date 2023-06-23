@@ -8,7 +8,7 @@
  -->
  My name's Wilbur Wong, an enthusiastic explorer of xrOS and SwiftUI.
 > 📫 How to reach me: 
-> Mail 📮 every.emotion.app@gmail.com
+> Mail 📮 hulkbuster0114@gmail.com
 > [🏜 Website](https://castle.montaigne.io/) 
 > WeChat WilburStereo
 >  [🐦Twitter]() 
