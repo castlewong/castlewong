@@ -2,7 +2,7 @@
 
 🔭 I’m Wilbur Wong, an enthusiastic explorer of visionOS. 
 
-Check out my first pinned repository, which collect sample codes, tutorials and resources for visionOS and Apple Vision Pro.
+Check out my first pinned repository, which collects sample codes, tutorials and resources for visionOS and Apple Vision Pro.
  
 <!-- [![Wilbur's GitHub stats](https://github-readme-stats.vercel.app/api?username=castlewong&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
