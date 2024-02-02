@@ -28,7 +28,6 @@ Check out my top-pinned repository, which collects sample codes, tutorials and r
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <!-- [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython)  -->
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](http://figma.com/)
 <!-- [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/golang/go) -->
 <!-- [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
  -->
