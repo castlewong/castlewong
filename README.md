@@ -11,7 +11,7 @@ Check out my top-pinned repository, which collects sample codes, tutorials and r
  -->
 
 > 📫 How to reach me: 
-> Mail 📮 every.emotion.app@gmail.com
+> Mail 📮 hulkbuster0114@gmail.com
 > [🏜 Website](https://castle.montaigne.io/) 
 > WeChat WilburStereo
 >  [🐦Twitter]() 
