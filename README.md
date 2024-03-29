@@ -1,6 +1,6 @@
 ### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
-🔭 I’m Wilbur Wong, an enthusiastic explorer of visionOS. 
+🔭 I’m Wilbur Wong, an enthusiastic explorer of visionOS and SwiftUI. 
 
 Check out my top-pinned repository, which collects sample codes, tutorials and resources for visionOS and Apple Vision Pro.
  
