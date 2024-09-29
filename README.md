@@ -2,7 +2,7 @@
 
 🔭 I’m Wilbur Wong, an enthusiastic explorer of SwiftUI and Smart Home accessories.
 
-This is my website: ![www.wilbur.pro](https://www.wilbur.pro)
+This is my website: [www.wilbur.pro](https://www.wilbur.pro)
 
 Check out my top-pinned repository, which collects sample codes, tutorials and resources for visionOS and Apple Vision Pro.
  
