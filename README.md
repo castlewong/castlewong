@@ -8,9 +8,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=castlewong&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true&bg_color=00000000" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=castlewong&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=false&border_radius=12&bg_color=00000000" height="155"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castlewong&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true&bg_color=00000000" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castlewong&layout=compact&theme=vue&hide_border=false&border_radius=12&langs_count=8&count_private=true&bg_color=00000000" height="155"/>
 </p>
 
 <br/>
@@ -50,6 +50,8 @@
 </p>
 
 <br/>
+
+<p align="center"><strong>Hobby</strong></p>
 
 <p align="center">
   <sub>📺 Translating tech reviews for Chinese audiences &nbsp;—&nbsp;
