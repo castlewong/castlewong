@@ -50,13 +50,9 @@
   &nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/555555" width="36" title="Claude Code"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/openai/555555" width="36" title="Codex"/>
-  &nbsp;
   <img src="https://ghostty.org/favicon.ico" width="36" title="Ghostty"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/termius/000000" width="36" title="Termius"/>
-  &nbsp;
-  <img src="https://en.eagle.cool/favicon.ico" width="36" title="Eagle"/>
 </p>
 
 <br/>
