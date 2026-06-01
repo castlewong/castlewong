@@ -25,3 +25,4 @@ Translating tech reviews for Chinese audiences — bringing the best of **The Ve
 [![The Verge](https://img.shields.io/badge/The%20Verge-000?style=flat-square&logo=theverge&logoColor=fff)](https://www.bilibili.com/video/BV1F8411b7TQ)
 [![Tech Chap](https://img.shields.io/badge/Tech%20Chap-ff4500?style=flat-square&logo=youtube&logoColor=fff)](https://www.bilibili.com/video/BV1bh411x7Sy)
 [![Mrwhosetheboss](https://img.shields.io/badge/Mrwhosetheboss-ff0000?style=flat-square&logo=youtube&logoColor=fff)](https://www.bilibili.com/video/BV1ui4y1E74o)
+
