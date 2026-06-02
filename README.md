@@ -1,14 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Wilbur&fontSize=80&fontColor=e0e0e0&fontAlignY=35&desc=Building%20tools%20that%20feel%20inevitable&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<br/>
-
 ### Hi there 👋
 
 **SwiftUI & visionOS explorer** — crafting native Apple experiences, one view at a time.
 
 I design and build apps where the interface *is* the product. Currently obsessed with spatial computing and the tools that make it sing.
 
-🔗 [macessentials.app](https://macessentials.app) · 📧 wilburdev@icloud.com · 💬 WeChat: WilburStereo
+🔗 [macessentials.app](https://macessentials.app) · 📧 wilburdev@icloud.com · 💬 WeChat: WilburStereo [Vidow English](https://vidow.vip/)
 
 <br/>
 
